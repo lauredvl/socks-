@@ -39,8 +39,13 @@ p {
   font-size: 24px;
 }
 
+.banner h2 {
+  color: royalblue;
+  font-size: 24px;
+}
+
 .button-blue {
-  background-color: #1A48E3;
+  background-color: #E65839;
   color: white;
   padding: 16px 48px;
   border-radius: 4px;
@@ -50,7 +55,7 @@ p {
 }
 
 .button-blue:hover {
-  background-color: #0D1EC6;
+  background-color: #E9D348;
   color: white;
 }
 
